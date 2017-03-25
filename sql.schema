@@ -1,0 +1,21 @@
+CREATE TABLE cluster_table(
+clusterID integer primary key AUTOINCREMENT,
+keywords text
+);
+
+CREATE TABLE news_table(
+date_time datetime primary key,
+url text,
+title text,
+content text,
+type text,
+words text,
+keywords text,
+keyphrases text,
+description text,
+clusterID int,
+foreign key (clusterID) references cluster(id)
+);
+
+
+
