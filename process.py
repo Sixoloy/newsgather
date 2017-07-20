@@ -8,7 +8,7 @@ from newsgather.util import *
 
 SADDR = '/home/sixoloy/data/news.d'
 TITLE_WEIGHT = 3
-THETA = 0.3
+THETA = 0.25
 DB_CONFIG = {
   'user': 'root',
   'password': '88955211',
@@ -30,7 +30,7 @@ class MyUDPHandler(SocketServer.BaseRequestHandler):
         news = list(c.fetchall())
         news = [dict(zip(c.column_names, new)) for new in news]
 
-        cluster = Cluster(news, cnx, TITLE_WEIGHT, THETA)
+        cluster = Cluster(news, cnx, 4, TITLE_WEIGHT, THETA)
         cluster.modelize()
         cluster.handle_news(cur_news)
         cnx.close()
@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # process storage
     cnx, c = connect_db(DB_CONFIG)
     c.execute('SELECT * FROM news_table WHERE '
-              'isprocessed = 0 '
+              'isprocessed = 1 '
               'AND type = "text"'
               'AND title <> ""'
               'AND content <> ""')

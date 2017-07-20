@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  h1(class= "h1") 热点新闻
+  |<div style="margin-top:30px">
+  |<form class="bs-example bs-example-form" role="form">
+  |<div class="col-lg-8 col-lg-offset-2 ">
+  |  <div class="input-group">
+  |    <input type="text" class="form-control" name="searchword" placeholder="输入你要搜索的关键词">
+  |    <span class="input-group-btn">
+  |      <button class="btn btn-default" type="submit">搜索</button>
+  |    </span>
+  |  </div>
+  |</div>
+  |</form>
+  |</div>
+  div(id= "svg_box", width="960", height="960")
+    svg(width="960", height="960", font-family="sans-serif", font-size="10", text-anchor="middle")
+  script(type="text/javascript", src="/javascripts/bubble.js")
+  script(type='text/javascript').
+    json_data = JSON.parse('!{data}');
+
+    create_bubble(json_data);

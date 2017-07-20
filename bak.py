@@ -1,7 +1,7 @@
 # -*-encoding:utf8 -*-
 import jieba
 import SocketServer
-from newsgather import TextRank4Sentence, util
+from newsgather import TextRankSentence, util
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -164,7 +164,7 @@ class ForkedUnixUDPServer(SocketServer.ForkingMixIn, SocketServer.UnixDatagramSe
 if __name__ == '__main__':
 
     jieba.load_userdict('./dict_military.dict')
-    textrank = TextRank4Sentence()
+    textrank = TextRankSentence()
 
     # process storage
     con, c = connect_db(DBADDR)

@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f337ea4d-3e6d-4720-9788-bb3659e06b2e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/node/list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-396">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clusters.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/clusters.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clusters.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/clusters.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bubble.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/node/bubble.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="25" column="87" lean-forward="false" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="70" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bubble.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/bubble.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="106" column="30" lean-forward="false" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Welcome to Express</find>
+      <find>Welcome to</find>
+      <find>w</find>
+      <find>we</find>
+      <find>wel</find>
+      <find>in</find>
+      <find>index.jade</find>
+      <find>index.jad</find>
+      <find>index.ja</find>
+      <find>黑龙江</find>
+      <find>ind</find>
+      <find>inde</find>
+      <find>index.js</find>
+      <find>index.j</find>
+      <find>index.</find>
+      <find>index</find>
+      <find>ts</find>
+      <find>陕西</find>
+      <find>on</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/routes/cluster.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/search.js" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/routes/clusters.js" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/views/clusters.jade" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/node/list.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/node/bubble.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/bubble.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1851" />
+    <option name="height" value="913" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Pug/Jade</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.10.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="settings.editor.splitter.proportion" value="0.21201414" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.bin/www">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin/www" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f337ea4d-3e6d-4720-9788-bb3659e06b2e" name="Default" comment="" />
+      <created>1492626473179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492626473179</updated>
+      <workItem from="1492626476250" duration="83924000" />
+      <workItem from="1495572025287" duration="3611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87535000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1851" height="913" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19220209" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15394913" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38376892" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31361762" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19220209" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38376892" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/javascripts/node/list.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="web" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="web" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/node/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="46" column="83" lean-forward="false" selection-start-line="46" selection-start-column="83" selection-end-line="46" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/clusters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/clusters.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/node/bubble.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="87" lean-forward="false" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="70" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/bubble.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/sixoloy/gradution/web">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/acorn/dist/acorn.js</node>
+            <node x="" y="">$PROJECT_DIR$/app.js#bodyParser#183;/home/sixoloy/gradution/web/app.js#cookieParser#138;/home/sixoloy/gradution/web/app.js#express#4;/home/sixoloy/gradution/web/app.js#favicon#66;/home/sixoloy/gradution/web/app.js#index#225;/home/sixoloy/gradution/web/app.js#logger#106;/home/sixoloy/gradution/web/app.js#path#38;/home/sixoloy/gradution/web/app.js#users#264;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#View#485;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#compileETag#557;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#compileQueryParser#614;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#compileTrust#672;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#debug#432;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#deprecate#709;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#finalhandler#230;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#flatten#753;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#http#515;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#merge#793;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#methods#308;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#middleware#342;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#query#389;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#resolve#839;/home/sixoloy/gradution/web/node_modules/express/lib/application.js#setPrototyeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/attrs.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/block-comment.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/block.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/case.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/code.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/comment.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/compiler.js#constantinople#299;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#doctypes#87;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#filters#51;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#nodes#19;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#parseJSExpression#257;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#runtime#125;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#selfClosing#193;/home/sixoloy/gradution/web/node_modules/jade/lib/compiler.js#utils#161;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/debug.js#ms#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/doctype.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/doctypes.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/each.js#Node#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/events.js#EventEmitter#420;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#233;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#Route#349;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#Router#388;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#index.js#1513;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#mixin#269;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#proto#311;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#query.js#1465;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#req#422;/home/sixoloy/gradution/web/node_modules/express/lib/express.js#res#454;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/filter.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/filters.js#CleanCSS#144;/home/sixoloy/gradution/web/node_modules/jade/lib/filters.js#jstransformer#63;/home/sixoloy/gradution/web/node_modules/jade/lib/filters.js#name#1361;/home/sixoloy/gradution/web/node_modules/jade/lib/filters.js#transformers#19;/home/sixoloy/gradution/web/node_modules/jade/lib/filters.js#uglify#109;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/fs.js#readFileSync#11806;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js#browser.js#186;/home/sixoloy/gradution/web/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js#deprecate#156;/home/sixoloy/gradution/web/node_modules/body-parser/index.js#json.js#2302;/home/sixoloy/gradution/web/node_modules/body-parser/index.js#raw.js#2373;/home/sixoloy/gradution/web/node_modules/body-parser/index.js#text.js#2444;/home/sixoloy/gradution/web/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">parseMax;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mkdirp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/index.js#Compiler#206;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#Lexer#175;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#Parser#142;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#addWith#278;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#doctypes.js#602;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#filters.js#670;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#fs#308;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#index.js#515;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#runtime#243;/home/sixoloy/gradution/web/node_modules/jade/lib/index.js#utils#331;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js#auth#411;/home/sixoloy/gradution/web/node_modules/morgan/index.js#debug#444;/home/sixoloy/gradution/web/node_modules/morgan/index.js#deprecate#483;/home/sixoloy/gradution/web/node_modules/morgan/index.js#onFinished#525;/home/sixoloy/gradution/web/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-errors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/index.js#block-comment.js#477;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#block.js#233;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#case.js#164;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#code.js#96;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#comment.js#392;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#doctype.js#523;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#each.js#130;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#filter.js#353;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#literal.js#432;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#mixin-block.js#274;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#mixin.js#316;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#node.js#30;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#tag.js#63;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/index.js#text.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/commander/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#Route#230;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#debug#364;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#deprecate#412;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#flatten#456;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#methods#294;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#mixin#328;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#parseUrl#496;/home/sixoloy/gradution/web/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/with/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/acorn-globals/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js#cookie#190;/home/sixoloy/gradution/web/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jstransformer/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/raw-body/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js#etag#227;/home/sixoloy/gradution/web/node_modules/serve-favicon/index.js#fresh#254;/home/sixoloy/gradution/web/node_modules/serve-favicon/index.js#fs#283;/home/sixoloy/gradution/web/node_modules/serve-favicon/index.js#ms#306;/home/sixoloy/gradution/web/node_modules/serve-favicon/index.js#parseUrl#329;/home/sixoloy/gradution/web/node_modules/serve-favicon/index.js#path#364;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/node_modules/ms/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/void-elements/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/clean-css/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/constantinople/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototyeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/inline-tags.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/bin/jade.js#fs#58;/home/sixoloy/gradution/web/node_modules/jade/bin/jade.js#jade#309;/home/sixoloy/gradution/web/node_modules/jade/bin/jade.js#mkdirp#278;/home/sixoloy/gradution/web/node_modules/jade/bin/jade.js#path#116;/home/sixoloy/gradution/web/node_modules/jade/bin/jade.js#program#81;/home/sixoloy/gradution/web/node_modules/jade/bin/jade.js#version#400;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/jade.js#Attrs#65061;/home/sixoloy/gradution/web/node_modules/jade/jade.js#Block#66047;/home/sixoloy/gradution/web/node_modules/jade/jade.js#Compiler#1072;/home/sixoloy/gradution/web/node_modules/jade/jade.js#Lexer#1041;/home/sixoloy/gradution/web/node_modules/jade/jade.js#Node#64629;/home/sixoloy/gradution/web/node_modules/jade/jade.js#Parser#1008;/home/sixoloy/gradution/web/node_modules/jade/jade.js#_process#101411;/home/sixoloy/gradution/web/node_modules/jade/jade.js#acorn#112281;/home/sixoloy/gradution/web/node_modules/jade/jade.js#addWith#1144;/home/sixoloy/gradution/web/node_modules/jade/jade.js#block#63626;/home/sixoloy/gradution/web/node_modules/jade/jade.js#block-comment#63870;/home/sixoloy/gradution/web/node_modules/jade/jade.js#case#63557;/home/sixoloy/gradution/web/node_modules/jade/jade.js#characterParser#32766;/home/sixoloy/gradution/web/node_modules/jade/jade.js#code#63489;/home/sixoloy/gradution/web/node_modules/jade/jade.js#comment#63785;/home/sixoloy/gradution/web/node_modules/jade/jade.js#constantinople#11541;/home/sixoloy/gradution/web/node_modules/jade/jade.js#detect#111100;/home/sixoloy/gradution/web/node_modules/jade/jade.js#doctype#63916;/home/sixoloy/gradution/web/node_modules/jade/jade.js#doctypes#11329;/home/sixoloy/gradution/web/node_modules/jade/jade.js#each#63523;/home/sixoloy/gradution/web/node_modules/jade/jade.js#filter#63746;/home/sixoloy/gradution/web/node_modules/jade/jade.js#filters#11293;/home/sixoloy/gradution/web/node_modules/jade/jade.js#fs#1174;/home/sixoloy/gradution/web/node_modules/jade/jade.js#index.js#1381;/home/sixoloy/gradution/web/node_modules/jade/jade.js#inlineTags#66079;/home/sixoloy/gradution/web/node_modules/jade/jade.js#literal#63825;/home/sixoloy/gradution/web/node_modules/jade/jade.js#mixin#63709;/home/sixoloy/gradution/web/node_modules/jade/jade.js#mixin-block#63667;/home/sixoloy/gradution/web/node_modules/jade/jade.js#node#63423;/home/sixoloy/gradution/web/node_modules/jade/jade.js#nodes#11261;/home/sixoloy/gradution/web/node_modules/jade/jade.js#p#78722;/home/sixoloy/gradution/web/node_modules/jade/jade.js#parseJSExpression#11499;/home/sixoloy/gradution/web/node_modules/jade/jade.js#path#68569;/home/sixoloy/gradution/web/node_modules/jade/jade.js#readFileSync#93254;/home/sixoloy/gradution/web/node_modules/jade/jade.js#runtime#1109;/home/sixoloy/gradution/web/node_modules/jade/jade.js#selfClosing#11435;/home/sixoloy/gradution/web/node_modules/jade/jade.js#tag#63456;/home/sixoloy/gradution/web/node_modules/jade/jade.js#text#63591;/home/sixoloy/gradution/web/node_modules/jade/jade.js#utils#32734;/home/sixoloy/gradution/web/node_modules/jade/jade.js#walk#261134;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js#bytes#190;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/json.js#contentType#219;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/json.js#createError#261;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/json.js#debug#302;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/json.js#read#351;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;/home/sixoloy/gradution/web/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/lexer.js#characterParser#51;/home/sixoloy/gradution/web/node_modules/jade/lib/lexer.js#utils#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/literal.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/mixin-block.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/mixin.js#Attrs#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/net.js#isIP#40147;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/node.js#debug.js#214;/home/sixoloy/gradution/web/node_modules/debug/src/node.js#fs#4359;/home/sixoloy/gradution/web/node_modules/debug/src/node.js#net#4528;/home/sixoloy/gradution/web/node_modules/debug/src/node.js#tty#37;/home/sixoloy/gradution/web/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/node.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/uglify-js/tools/node.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/package.json#version#4324;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/parser.js#Lexer#19;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#constantinople#179;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#filters#115;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#fs#10960;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#nodes#51;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#p#10304;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#parseJSExpression#247;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#path#151;/home/sixoloy/gradution/web/node_modules/jade/lib/parser.js#utils#83;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/path.js#basename#39369;/home/sixoloy/.WebStorm2017.1/config/javascript/nodejs/6.10.2/core-modules/path.js#resolve#33754;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#parseUrl#218;/home/sixoloy/gradution/web/node_modules/express/lib/middleware/query.js#qs#254;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/querystring.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js#bytes#144;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/raw.js#debug#173;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/raw.js#read#221;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/read.js#createError#156;/home/sixoloy/gradution/web/node_modules/body-parser/lib/read.js#getBody#197;/home/sixoloy/gradution/web/node_modules/body-parser/lib/read.js#iconv#231;/home/sixoloy/gradution/web/node_modules/body-parser/lib/read.js#onFinished#265;/home/sixoloy/gradution/web/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/release.js#compiledWebsite#452;/home/sixoloy/gradution/web/node_modules/jade/release.js#fs#19;/home/sixoloy/gradution/web/node_modules/jade/release.js#pr#43;/home/sixoloy/gradution/web/node_modules/jade/release.js#readdirp#88;/home/sixoloy/gradution/web/node_modules/jade/release.js#version#413;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#deprecate#264;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#fresh#401;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#http#373;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#isIP#315;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#parse#473;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#parseRange#431;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#proxyaddr#506;/home/sixoloy/gradution/web/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#contentDisposition#194;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#cookie#793;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#deprecate#251;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#encodeUrl#295;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#escapeHtml#333;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#http#374;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#isAbsolute#415;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#merge#554;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#normalizeType#651;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#normalizeTypes#706;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#onFinished#450;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#path#491;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#send#825;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#setCharset#758;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#sign#597;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#statuses#519;/home/sixoloy/gradution/web/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;/home/sixoloy/gradution/web/node_modules/express/lib/router/route.js#debug#230;/home/sixoloy/gradution/web/node_modules/express/lib/router/route.js#flatten#284;/home/sixoloy/gradution/web/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/runtime.js#readFileSync#5773;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/runtime.js#readFileSync#4928;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/tag.js#Attrs#19;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/tag.js#Block#51;/home/sixoloy/gradution/web/node_modules/jade/lib/nodes/tag.js#inlineTags#83;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js#bytes#144;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/text.js#contentType#173;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/text.js#debug#215;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/text.js#read#264;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/nodes/text.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/transformers/lib/transformers.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/tty.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#createError#261;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#debug#302;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#index.js#4477;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#querystring.js#4539;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#read#404;/home/sixoloy/gradution/web/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#4;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/jade/lib/utils.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#basename#426;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#compileETag#3446;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#compileQueryParser#3996;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#compileTrust#4646;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#contentDisposition#198;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#contentType#255;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#deprecate#298;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#etag#456;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#flatten#342;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#isAbsolute#1308;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#mime#389;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#normalizeType#1915;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#normalizeTypes#2193;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#proxyaddr#484;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#qs#523;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#querystring#547;/home/sixoloy/gradution/web/node_modules/express/lib/utils.js#setCharset#5243;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#__express#1569;/home/sixoloy/gradution/web/node_modules/express/lib/view.js#debug#230;/home/sixoloy/gradution/web/node_modules/express/lib/view.js#fs#304;/home/sixoloy/gradution/web/node_modules/express/lib/view.js#path#276;/home/sixoloy/gradution/web/node_modules/express/lib/view.js#utils#328;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/acorn/dist/walk.js</node>
+            <node x="" y="">$PROJECT_DIR$/bin/www#app#58;/home/sixoloy/gradution/web/bin/www#debug#87;/home/sixoloy/gradution/web/bin/www#http#131;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/zlib.js</node>
+            <node x="" y="">_process</node>
+            <node x="" y="">attrs</node>
+            <node x="" y="">block</node>
+            <node x="" y="">block-comment</node>
+            <node x="" y="">case</node>
+            <node x="" y="">code</node>
+            <node x="" y="">comment</node>
+            <node x="" y="">compiler</node>
+            <node x="" y="">debug</node>
+            <node x="" y="">doctype</node>
+            <node x="" y="">doctypes</node>
+            <node x="" y="">each</node>
+            <node x="" y="">filter</node>
+            <node x="" y="">filters</node>
+            <node x="" y="">inline-tags</node>
+            <node x="" y="">lexer</node>
+            <node x="" y="">literal</node>
+            <node x="" y="">sync;</node>
+            <node x="" y="">mixin</node>
+            <node x="" y="">mixin-block</node>
+            <node x="" y="">__express;</node>
+            <node x="" y="">ms</node>
+            <node x="" y="">name</node>
+            <node x="" y="">node</node>
+            <node x="" y="">nodes</node>
+            <node x="" y="">parser</node>
+            <node x="" y="">pull-request</node>
+            <node x="" y="">stop.js</node>
+            <node x="" y="">tag</node>
+            <node x="" y="">text</node>
+            <node x="" y="">utils</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2843437945791726" x="2716.0" y="1608.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="64" column="37" lean-forward="false" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="457" column="0" lean-forward="false" selection-start-line="457" selection-start-column="0" selection-end-line="457" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="437" column="2" lean-forward="false" selection-start-line="437" selection-start-column="2" selection-end-line="437" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/node_modules/mysql/lib/protocol/Parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/clusters.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/clusters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="70" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/node/bubble.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="87" lean-forward="false" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/node/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/bubble.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="106" column="30" lean-forward="false" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

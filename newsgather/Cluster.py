@@ -4,15 +4,16 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import KMeans
-from . import TextRank4Sentence
+from gensim import corpora, models, similarities
+from . import TextRankSentence
 from .util import *
 
 class Cluster(object):
-    def __init__(self, row_news, connection, n_cell_clusters = 4, title_weight = 3, theta = 0.5):
+    def __init__(self, row_news, connection, n_cell_clusters = 4, title_weight = 3, theta = 0.25):
         self.news = row_news
         self.db_connection = connection
         self.db_cursor = connection.cursor()
-        self.textrank = TextRank4Sentence()
+        self.textrank = TextRankSentence()
         self.title_weight = title_weight
         self.theta = theta
         self.vectorizer = None
@@ -131,6 +132,14 @@ class Cluster(object):
         self.transformer = TfidfTransformer()
         self.trainedTFIDF = self.transformer.fit_transform(self.frequency).toarray()
 
+        # self.dictionary = corpora.Dictionary(corpus)
+        # corpus = [self.dictionary.doc2bow(text) for text in corpus]
+        # self.tfidfModel = models.TfidfModel(corpus)
+        # self.trainedTFIDF = self.tfidfModel[corpus]
+        #
+        # self.lsiModel = models.LsiModel(self.trainedTFIDF, id2word=self.dictionary, num_topics=10)
+        # self.trainedLSI = self.lsiModel[corpus]
+
     def clustering(self):
         # clustering
         print("开始聚类...")
@@ -138,8 +147,10 @@ class Cluster(object):
             # 第一篇文章独立分类
             if index == 0:
                 c = self.db_cursor
-                c.execute('DELETE FROM cluster1_table')
+                c.execute('UPDATE news_table SET cluster1ID = null')
+                c.execute('UPDATE news_table SET cluster2ID = null')
                 c.execute('DELETE FROM cluster2_table')
+                c.execute('DELETE FROM cluster1_table')
                 c.execute('ALTER TABLE cluster1_table AUTO_INCREMENT=1')
 
                 self.__create_cluster(index)
@@ -162,7 +173,7 @@ class Cluster(object):
             self.__cell_clustering(id1 + 1)
 
     def __cell_clustering(self, cluster1ID):
-        """这个函数可能有bug，需要考虑当新闻数小于4的情况"""
+        """需要考虑当新闻数小于4的情况"""
         cell_news_indice = [indice for indice, new in enumerate(self.news) if new['cluster1ID'] == cluster1ID]
         cell_news = [self.trainedTFIDF[indice] for indice in cell_news_indice]
 

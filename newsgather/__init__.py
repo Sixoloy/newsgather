@@ -1,7 +1,7 @@
 #-*- encoding:utf-8 -*-
 from __future__ import absolute_import
-from .TextRank4Keyword import TextRank4Keyword
-from .TextRank4Sentence import TextRank4Sentence
+from .TextRankKeyword import TextRankKeyword
+from .TextRankSentence import TextRankSentence
 from .Cluster import Cluster
 from . import Segmentation
 

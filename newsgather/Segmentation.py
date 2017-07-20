@@ -106,7 +106,8 @@ class SentenceSegmentation(object):
         return res 
         
 class Segmentation(object):
-    
+    """分词和分句"""
+
     def __init__(self, stop_words_file = None, 
                     allow_speech_tags = util.allow_speech_tags,
                     delimiters = util.sentence_delimiters):

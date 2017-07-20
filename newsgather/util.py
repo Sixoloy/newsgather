@@ -119,7 +119,6 @@ def get_similarity(word_list1, word_list2):
 
 def sort_words(vertex_source, edge_source, window = 2, pagerank_config = {'alpha': 0.85,}):
     """将单词按关键程度从大到小排序
-
     Keyword arguments:
     vertex_source   --  二维列表，子列表代表句子，子列表的元素是单词，这些单词用来构造pagerank中的节点
     edge_source     --  二维列表，子列表代表句子，子列表的元素是单词，根据单词位置关系构造pagerank中的边

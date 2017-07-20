@@ -10,10 +10,10 @@ except:
     pass
 
 import codecs
-from newsgather import TextRank4Sentence
+from newsgather import TextRankSentence
 
 text = "我吃苹果。我吃苹果。"
-textrank = TextRank4Sentence()
+textrank = TextRankSentence()
 
 textrank.analyze(text=text, lower=True, window=2, source = 'all_filters')   # py2中text必须是utf8编码的str或者unicode对象，py3中必须是utf8编码的bytes或者str对象
 
@@ -34,3 +34,9 @@ for item in textrank.get_key_sentences(num=3):
 
 print( '分词' )
 print (textrank.get_words())
+
+a = [1, 3, 45]
+b = [2]
+
+for i in xrange(1, 2):
+    print (i)

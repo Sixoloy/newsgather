@@ -1,0 +1,45 @@
+extends layout
+
+block content
+  h1 新闻列表
+  <div style="margin-top:30px">
+  <form class="bs-example bs-example-form" role="form">
+  <div class="col-lg-8 col-lg-offset-2 searchbox">
+  <div class="input-group">
+  <input type="text" class="form-control" name="searchword" placeholder="输入你要搜索的关键词">
+  <span class="input-group-btn">
+  <button class="btn btn-default" type="submit">搜索</button>
+  </span>
+  </div>
+  </div>
+  </form>
+  </div>
+  - var news = JSON.parse(news_list)
+  - news.forEach(function(val){
+  div(class= "col-lg-8 col-lg-offset-2")
+    div(class= "panel panel-info")
+      div(class= "panel-heading") 时间:#{val.date_time} #{val.title}
+      div(class= "panel-body")
+        p(class= "description") 摘要: #{val.description}
+        a(href= "javascript:void(0);" onclick= "change(this)") 展开
+      p(class= "attribute")
+        span 关键词:
+        span(class= "keywords")  #{val.keywords}
+      p(class= "attribute")
+        span 关键短语:
+        span(class= "keyphrases")  #{val.keyphrases}
+      p(class= "attribute") 原始网页链接:
+        a(href= "#{val.url}")  #{val.url}
+  - });
+
+  script(type='text/javascript').
+    function change(obj) {
+      if ($(obj).prev().hasClass('description')){
+          $(obj).prev().removeClass('description');
+          $(obj).html("隐藏");
+      } else {
+          $(obj).prev().addClass('description');
+          $(obj).html("展开");
+      }
+    }
+    

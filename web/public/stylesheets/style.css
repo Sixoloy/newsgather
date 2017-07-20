@@ -1,0 +1,62 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.keywords, .keyphrases {
+  color: #FF0000;
+}
+
+.attribute {
+  padding-left: 15px;
+}
+
+.description {
+  position:relative;
+  line-height:1.4em;
+  /* 3 times the line-height to show 3 lines */
+  height:4.2em;
+  overflow:hidden;
+}
+.description::after {
+  content:"...";
+  font-weight:bold;
+  position:absolute;
+  bottom:0;
+  right:0;
+  padding:0 20px 1px 45px;
+  background:url(http://css88.b0.upaiyun.com/css88/2014/09/ellipsis_bg.png) repeat-y;
+}
+
+.searchbox {
+  margin-bottom: 20px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 {
+  text-align: center;
+}
+
+.root_node {
+  visibility:hidden;
+}
+
+.node {
+
+}
+
+.leaf_node {
+
+}
+
+#svg_box {
+  text-align: center;
+}
+
+svg {
+  transform-origin:50% 50%;
+}
+
